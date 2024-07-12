@@ -5,7 +5,7 @@
 ![alt text](./screenshots/Habaneras_de_Lino_Logo.png)
 
 
- ![Python version](https://img.shields.io/badge/Python-3.8.10-4c566a?logo=python&&longCache=true&logoColor=white&colorB=pink&style=flat-square&colorA=4c566a) ![Django version](https://img.shields.io/badge/Django-3.2.8-4c566a?logo=django&&longCache=truelogoColor=white&colorB=pink&style=flat-square&colorA=4c566a) ![Django-RestFramework](https://img.shields.io/badge/Django_Rest_Framework-3.12.4-red.svg?longCache=true&style=flat-square&logo=django&logoColor=white&colorA=4c566a&colorB=pink) ![Commit activity](https://img.shields.io/github/commit-activity/y/Ceci-Aguilera/habaneras_de_lino_api/master?&&longCache=true&logoColor=white&colorB=green&style=flat-square&colorA=4c566a) ![Last Commit](https://img.shields.io/github/last-commit/Ceci-Aguilera/habaneras_de_lino_api/master?&&longCache=true&logoColor=white&colorB=green&style=flat-square&colorA=4c566a) 
+ ![Python version](https://img.shields.io/badge/Python-3.8.10-4c566a?logo=python&&longCache=true&logoColor=white&colorB=pink&style=flat-square&colorA=4c566a) ![Django version](https://img.shields.io/badge/Django-3.2.8-4c566a?logo=django&&longCache=truelogoColor=white&colorB=pink&style=flat-square&colorA=4c566a) ![Django-RestFramework](https://img.shields.io/badge/Django_Rest_Framework-3.12.4-red.svg?longCache=true&style=flat-square&logo=django&logoColor=white&colorA=4c566a&colorB=pink) ![Commit activity](https://img.shields.io/github/commit-activity/y/lionking0105/habaneras_de_lino_api/master?&&longCache=true&logoColor=white&colorB=green&style=flat-square&colorA=4c566a) ![Last Commit](https://img.shields.io/github/last-commit/lionking0105/habaneras_de_lino_api/master?&&longCache=true&logoColor=white&colorB=green&style=flat-square&colorA=4c566a) 
 
 </div>
 
@@ -26,8 +26,8 @@
 __Habaneras de Lino__ is an online store to buy linen and cotton clothes that offers its customers an experience of comfort, luxury ,and modernity. The clients can filter the clothing by category, collection, and other characteristics, as well as customize the product (set color, size, sleeve cut, ...), and save them in their cart as well as apply coupons for discount.
 
 __New Version Now Availeble:__ To see the latest version of __Habaneras de Lino__, please visit the repo [habaneras-de-lino-drf-api](). It contains an improved and more intuitive Custom Admin Interface, and better structured API design.
-- [Link to the Backend of Habaneras de Lino Version 2](https://github.com/Ceci-Aguilera/habaneras-de-lino-drf-api)
-- [Link to the Frontend of Habaneras de Lino Version 2](https://github.com/Ceci-Aguilera/habaneras-de-lino-frontend-v2)
+- [Link to the Backend of Habaneras de Lino Version 2](https://github.com/lionking0105/habaneras-de-lino-drf-api)
+- [Link to the Frontend of Habaneras de Lino Version 2](https://github.com/lionking0105/habaneras-de-lino-frontend-v2)
 - [Link to Client Website of Habaneras de Lino Version 2](https://habanerasdelino.com)
 
 <a name="useful_notes"></a>
@@ -55,7 +55,7 @@ There are currently 3 services in use: the api (Django App), the db (the postgre
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/Ceci-Aguilera/habaneras_de_lino_api.git
+    git clone https://github.com/lionking0105/habaneras_de_lino_api.git
     ```
 1. Configure the environment variables.
     1. Copy the content of the example env file that is inside the mom_style_api folder into a .env file:
@@ -108,7 +108,7 @@ There are currently 3 services in use: the api (Django App), the db (the postgre
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/Ceci-Aguilera/habaneras_de_lino_api.git
+    git clone https://github.com/lionking0105/habaneras_de_lino_api.git
     ```
 1. Configure a virtual env and set up the database. See [Link for configuring Virtual Environment](https://docs.python-guide.org/dev/virtualenvs/) and [Link for Database setup](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04).
 1. Configure the environment variables.
@@ -163,7 +163,7 @@ There are currently 3 services in use: the api (Django App), the db (the postgre
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/Ceci-Aguilera/habaneras_de_lino_api.git
+    git clone https://github.com/lionking0105/habaneras_de_lino_api.git
     ```
 1. Install the dependencies:
     ```bash
@@ -285,7 +285,7 @@ There are currently 3 services in use: the api (Django App), the db (the postgre
 - [Docker Oficial Documentation](https://docs.docker.com/)
 - Dockerizing Django, PostgreSQL, guinicorn, and Nginx:
     - Github repo of sunilale0: [Link](https://github.com/sunilale0/django-postgresql-gunicorn-nginx-dockerized/blob/master/README.md#nginx)
-    - My repo to Dockerize Django + Postgresql + Nginx + React js: [Ceci-Aguilera/django-react-nginx-mysql-docker](https://github.com/Ceci-Aguilera/django-react-nginx-mysql-docker)
+    - My repo to Dockerize Django + Postgresql + Nginx + React js: [lionking0105/django-react-nginx-mysql-docker](https://github.com/lionking0105/django-react-nginx-mysql-docker)
     - Michael Herman article on testdriven.io: [Link](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
 
 ### Django and DRF
